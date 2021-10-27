@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 // import Header from 'header/Header';
-import DogWidget from "./DogWidget";
+import DogWidget from 'header/DogWidget';
 import "./index.css";
 
 const App = () => (
