@@ -8,7 +8,7 @@ import "./index.css";
 const App = () => (
   <div>
     <Header />
-    <div >Host</div>
+    <div>Host</div>
   </div>
 );
 
